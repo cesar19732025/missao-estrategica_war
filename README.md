@@ -20,6 +20,7 @@ Observações
 A verificação de missões está baseada em busca de palavras-chave na string da missão — isso facilita criar diferentes missões, e torna as descrições padronizadas para que o verificarMissao consiga identificá-las.
 
 Autor
+
 Cesar Ramos de Andrade
+
 Este projeto faz parte de atividades do Curso Analise e Desenvolvimento de Sistemas.
-AAAAAA
